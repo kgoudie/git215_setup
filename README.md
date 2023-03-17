@@ -1,2 +1,2 @@
 # git215_setup
-Web Authoring
+## Author: Kendra Goudie
